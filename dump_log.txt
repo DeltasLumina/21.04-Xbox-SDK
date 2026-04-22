@@ -1,0 +1,15 @@
+XSDKDumper - Arc Raiders Xbox (Apr 21 2026 build)
+Base: 0x7ff799d40000
+
+=== Self-Test (Xbox) ===
+ClassClass name: Class OK
+StructClass name: ScriptStruct OK
+ActorClass name: Actor OK
+Actor super: Object
+ClassClass outermost: Class
+ClassClass path: Class
+Kismet name: Class
+Self-test: PASSED
+Classes: 34f2 crashed=0
+
+Dump complete: 34f2 classes, 1f3b structs, b01 enums, 2bee packages
